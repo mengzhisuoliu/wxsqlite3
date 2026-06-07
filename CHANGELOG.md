@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.12.5] - 2026-06-07
+
+- Upgrade to SQLite3 Multiple Ciphers version 2.3.5 (SQLite version 3.53.2)
+
 ## [4.12.4] - 2026-05-06
 
 - Upgrade to SQLite3 Multiple Ciphers version 2.3.4 (SQLite version 3.53.1)
@@ -742,7 +746,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First public release
 
-[Unreleased]: ../../compare/v4.12.4...HEAD
+[Unreleased]: ../../compare/v4.12.5...HEAD
+[4.12.5]: ../../compare/v4.12.4...v4.12.5
 [4.12.4]: ../../compare/v4.12.3...v4.12.4
 [4.12.3]: ../../compare/v4.12.2...v4.12.3
 [4.12.2]: ../../compare/v4.12.1...v4.12.2
